@@ -4,16 +4,16 @@
   "description": "Step by step math solutions",
   "main": "index.js",
   "dependencies": {
-    "mathjs": "3.11.2"
+    "mathjs": "10.4.1"
   },
   "engines": {
     "node": ">=6.0.0"
   },
   "devDependencies": {
-    "eslint": "^3.10.2",
-    "eslint-config-google": "^0.7.0",
+    "eslint": "^8.11.0",
+    "eslint-config-google": "^0.14.0",
     "eslint-plugin-sort-requires": "^2.1.0",
-    "mocha": "2.4.5"
+    "mocha": "9.2.2"
   },
   "scripts": {
     "lint": "node_modules/.bin/eslint .",
